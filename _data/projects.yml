@@ -716,3 +716,11 @@
   upforgrabs:
     name: help out!
     link: https://github.com/kellabyte/Haywire/labels/help%20out!
+
+- name: CefSharp
+  desc: .NET binding for CEF the Chromium Embedded Framework
+  site: https://github.com/CefSharp/CefSharp
+  tags: [.NET, chrome, chromium, WPF, WinForms]
+  upforgrabs:
+    name: up-for-grabs
+    link: https://github.com/CefSharp/CefSharp/labels/up-for-grabs
